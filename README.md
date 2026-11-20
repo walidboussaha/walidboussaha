@@ -1,21 +1,19 @@
-# wdebugcode
+![Walid Boussaha — Portfolio de développement](assets/profile-banner.svg)
 
-**Développement logiciel · Python · HTML / CSS · Git**
+[**Voir les démonstrations ↗**](https://walidboussaha.github.io/runtrack-html/) · [Explorer les dépôts](https://github.com/walidboussaha?tab=repositories) · [Swayv Films](https://github.com/swayvfilms)
 
-Je présente ici les projets que j’ai réalisés à **La Plateforme_**. Chaque dépôt indique ce qu’il contient, où lire le code et comment essayer les réalisations.
+Je développe en **Python**, **HTML/CSS** et **Git**. Ce portfolio rassemble les projets que j’ai réalisés à **La Plateforme_**, avec des démos à essayer et des fichiers précis pour explorer le code.
 
 ## Projets de formation
 
-| Projet | Réalisation | Pour commencer |
+| Projet | Ce que j’ai réalisé | Démo et code |
 | --- | --- | --- |
-| **BloomPetals** | Site vitrine de fleuriste en quatre pages, avec galerie, présentation de l’équipe et formulaire de démonstration. | [Démo](https://wdebugcode.github.io/runtrack-html/BloomPetals/) · [Code](https://github.com/wdebugcode/runtrack-html/tree/main/BloomPetals) |
-| **CV web** | Page HTML sémantique avec navigation par ancres, mise en page responsive et intégration vidéo. | [Démo](https://wdebugcode.github.io/runtrack-html/CV/mon-cv.html) · [Code](https://github.com/wdebugcode/runtrack-html/tree/main/CV) |
-| **Runtrack Python** | 62 scripts indépendants sur six séries d’exercices. Les derniers mettent en œuvre un chiffrement de César, des calculs sur des listes et un tri manuel. | [Guide et exemples](https://github.com/wdebugcode/runtrack-python) |
-| **Git Begins** | Premiers exercices de versionnage et mémo de commandes Git. | [Dépôt](https://github.com/wdebugcode/git-begins) |
+| **BloomPetals** | Site vitrine de fleuriste en quatre pages, avec galerie, présentation de l’équipe et formulaire de démonstration. | [Démo](https://walidboussaha.github.io/runtrack-html/BloomPetals/) · [Code](https://github.com/walidboussaha/runtrack-html/tree/main/BloomPetals) |
+| **CV web** | Page responsive en HTML sémantique, avec navigation par ancres et intégration vidéo. | [Démo](https://walidboussaha.github.io/runtrack-html/CV/mon-cv.html) · [Code](https://github.com/walidboussaha/runtrack-html/tree/main/CV) |
+| **Runtrack Python** | 62 scripts en six séries, dont un tri manuel et un chiffrement de César. | [Guide et exemples](https://github.com/walidboussaha/runtrack-python) |
+| **Git Begins** | Premiers exercices de versionnage et mémo de commandes Git. | [Dépôt](https://github.com/walidboussaha/git-begins) |
 
-## Quelques points d’entrée dans le code
+## À lire dans le code
 
-- [Structure du site BloomPetals](https://github.com/wdebugcode/runtrack-html/blob/main/BloomPetals/index.html) et [feuille de style commune](https://github.com/wdebugcode/runtrack-html/blob/main/BloomPetals/style.css)
-- [Tri manuel en Python](https://github.com/wdebugcode/runtrack-python/blob/master/jour7%268pr/job08.py) et [chiffrement de César](https://github.com/wdebugcode/runtrack-python/blob/master/jour7%268pr/job04.py)
-
-[**Voir les dépôts →**](https://github.com/wdebugcode?tab=repositories) · [Compte secondaire](https://github.com/swayvfilms-alt)
+- **Intégration web** · [Structure de BloomPetals](https://github.com/walidboussaha/runtrack-html/blob/main/BloomPetals/index.html) et [feuille de style](https://github.com/walidboussaha/runtrack-html/blob/main/BloomPetals/style.css)
+- **Algorithmique** · [Tri manuel](https://github.com/walidboussaha/runtrack-python/blob/master/jour7%268pr/job08.py) et [chiffrement de César](https://github.com/walidboussaha/runtrack-python/blob/master/jour7%268pr/job04.py)
