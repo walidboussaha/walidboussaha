@@ -1,10 +1,10 @@
-![Walid Boussaha — Développement logiciel](assets/profile-banner.svg)
+![Walid Boussaha, développement logiciel](assets/profile-banner.svg)
 
-<h1 align="center">Salut, moi c’est Walid 👋</h1>
+<h1 align="center">Salut, moi c’est Walid</h1>
 
 <p align="center">
   <a href="https://github.com/walidboussaha">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+en+formation+%C3%A0+La+Plateforme_;Python+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+Git;Du+site+vitrine+%C3%A0+l%E2%80%99algorithmique" alt="Développeur en formation à La Plateforme_ · Python · HTML · CSS · Git" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+en+formation+%C3%A0+La+Plateforme_;Python+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+Git;Sites+vitrines+en+HTML%2FCSS%2C+algorithmique+en+Python" alt="Développeur en formation à La Plateforme_ · Python · HTML · CSS · Git" />
   </a>
 </p>
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 🧑‍💻 À propos
+## À propos
 
-Je me forme au développement logiciel à **La Plateforme_**. Je construis des sites statiques en HTML et CSS, et je travaille l’algorithmique en Python. Chaque projet ci-dessous est en ligne ou lisible dans son dépôt.
+Je me forme au développement logiciel à La Plateforme_. Je construis des sites statiques en HTML et CSS, et je travaille l’algorithmique en Python. Chaque projet ci-dessous est en ligne ou lisible dans son dépôt.
 
 ```python
 class Developpeur:
@@ -33,45 +33,42 @@ class Developpeur:
             "CV web": "page responsive avec vidéo",
             "Runtrack Python": "62 scripts d’algorithmique",
         }
-
-    def prochain_objectif(self):
-        return "Un projet de plus, chaque semaine."
 ```
 
-## 🛠️ Technologies et outils
+## Langages et outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,md&theme=dark" alt="Python, HTML, CSS, Git, GitHub, Markdown" />
 </p>
 
-## 🚀 Projets à la une
+## Projets
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://walidboussaha.github.io/runtrack-html/BloomPetals/"><img src="assets/bloompetals.svg" alt="BloomPetals — ouvrir la démonstration" /></a>
-      <h3>🌸 BloomPetals</h3>
+      <a href="https://walidboussaha.github.io/runtrack-html/BloomPetals/"><img src="assets/bloompetals.svg" alt="BloomPetals : ouvrir la démonstration" /></a>
+      <h3>BloomPetals</h3>
       <p>Site vitrine de fleuriste en quatre pages : galerie, présentation de l’équipe et formulaire de démonstration.</p>
       <p><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" /></p>
       <p><a href="https://walidboussaha.github.io/runtrack-html/BloomPetals/">Ouvrir le site ↗</a> · <a href="https://github.com/walidboussaha/runtrack-html/tree/main/BloomPetals">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 CV web</h3>
+      <h3>CV web</h3>
       <p>Page responsive en HTML sémantique, avec navigation par ancres et intégration vidéo.</p>
       <p><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" /></p>
       <p><a href="https://walidboussaha.github.io/runtrack-html/CV/mon-cv.html">Ouvrir le CV ↗</a> · <a href="https://github.com/walidboussaha/runtrack-html/tree/main/CV">Code</a></p>
-      <h3>🐍 Runtrack Python</h3>
+      <h3>Runtrack Python</h3>
       <p>62 scripts en six séries, des premiers scripts aux algorithmes sur les listes et les chaînes.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /></p>
       <p><a href="https://github.com/walidboussaha/runtrack-python">Guide</a> · <a href="https://github.com/walidboussaha/runtrack-python/blob/master/jour7%268pr/job08.py">Tri manuel</a> · <a href="https://github.com/walidboussaha/runtrack-python/blob/master/jour7%268pr/job04.py">Chiffrement de César</a></p>
-      <h3>🌱 Git Begins</h3>
+      <h3>Git Begins</h3>
       <p>Premiers exercices Git et mémo des commandes : cloner, committer, synchroniser.</p>
       <p><a href="https://github.com/walidboussaha/git-begins">Ouvrir le dépôt</a></p>
     </td>
   </tr>
 </table>
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=walidboussaha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=fr" alt="Statistiques GitHub de Walid" />
@@ -86,10 +83,3 @@ class Developpeur:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=walidboussaha&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d’activité" />
 </p>
 
-## 🎉 Le saviez-vous ?
-
-Ce profil est versionné comme n’importe quel projet. Son historique de commits raconte sa propre construction.
-
----
-
-<p align="center"><sub>Construit avec Markdown, des SVG faits main et beaucoup de <code>git commit</code>.</sub></p>
