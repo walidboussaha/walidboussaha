@@ -1,15 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348">
-<defs><linearGradient id="field" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#17181f"/><stop offset="1" stop-color="#292c37"/></linearGradient><pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 0h1v1H0z M9 9h1v1H9z" fill="#d5d9e8" opacity=".16"/></pattern></defs>
-<rect width="1200" height="348" fill="url(#field)" rx="22"/>
-<rect x="1" y="1" width="1198" height="346" rx="21" fill="url(#grain)" stroke="#49505e"/>
-<g fill="none" stroke="#798295" stroke-width="1.5" opacity=".30">
-<path d="M995 0 1200 205 M925 0l275 275 M855 0l345 345 M785 0l348 348 M715 0l348 348"/>
-<circle cx="1068" cy="174" r="93"/><circle cx="1068" cy="174" r="72"/><circle cx="1068" cy="174" r="52"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="396" viewBox="0 0 1280 396" role="img">
+<title>Walid Boussaha — DÉVELOPPEMENT LOGICIEL</title>
+<defs>
+ <linearGradient id="ground" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#17191a"/><stop offset="1" stop-color="#242329"/></linearGradient>
+ <linearGradient id="wave" x1="720" y1="70" x2="1240" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#272a2e"/><stop offset=".65" stop-color="#e2f39f"/><stop offset="1" stop-color="#656a78"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#d9d8e3" stroke-opacity=".075"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1278" height="394" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1280" height="396" fill="url(#ground)"/>
+ <rect x="690" width="590" height="396" fill="url(#grid)"/>
+ <g fill="none" stroke="url(#wave)" stroke-width="1.8"><path d="M 756,-30 C 1120,60 785,250 1254,390" opacity="0.18"/>
+<path d="M 769,-30 C 1125,60 799,250 1261,390" opacity="0.21"/>
+<path d="M 782,-30 C 1130,60 813,250 1268,390" opacity="0.23"/>
+<path d="M 795,-30 C 1135,60 827,250 1275,390" opacity="0.26"/>
+<path d="M 808,-30 C 1140,60 841,250 1282,390" opacity="0.28"/>
+<path d="M 821,-30 C 1145,60 855,250 1289,390" opacity="0.31"/>
+<path d="M 834,-30 C 1150,60 869,250 1296,390" opacity="0.34"/>
+<path d="M 847,-30 C 1155,60 883,250 1303,390" opacity="0.36"/>
+<path d="M 860,-30 C 1160,60 897,250 1310,390" opacity="0.39"/>
+<path d="M 873,-30 C 1165,60 911,250 1317,390" opacity="0.41"/>
+<path d="M 886,-30 C 1170,60 925,250 1324,390" opacity="0.44"/>
+<path d="M 899,-30 C 1175,60 939,250 1331,390" opacity="0.47"/>
+<path d="M 912,-30 C 1180,60 953,250 1338,390" opacity="0.49"/>
+<path d="M 925,-30 C 1185,60 967,250 1345,390" opacity="0.52"/>
+<path d="M 938,-30 C 1190,60 981,250 1352,390" opacity="0.54"/>
+<path d="M 951,-30 C 1195,60 995,250 1359,390" opacity="0.57"/>
+<path d="M 964,-30 C 1200,60 1009,250 1366,390" opacity="0.60"/>
+<path d="M 977,-30 C 1205,60 1023,250 1373,390" opacity="0.62"/></g>
+ <path d="M1098 72h29m-14.5-14.5v29M1185 313h29m-14.5-14.5v29" stroke="#e2f39f" stroke-opacity=".8"/>
 </g>
-<path d="M1020 174h96m-48-48v96" stroke="#d9ef8d" opacity=".72" stroke-width="2"/>
-<path d="M72 66h46m-46 0v18M1128 282h-46m46 0v-18" stroke="#d9ef8d" stroke-width="2"/>
-<g font-family="Verdana, Arial, sans-serif">
-<text x="72" y="128" fill="#d9ef8d" font-size="23" letter-spacing="3">PORTFOLIO DE DÉVELOPPEMENT</text>
-<text x="66" y="218" fill="#f5f5f7" font-size="78" font-weight="700">Walid Boussaha</text>
-<text x="73" y="273" fill="#cbd0dc" font-size="27">Python · HTML / CSS · Git</text>
-</g></svg>
+<rect x="1" y="1" width="1278" height="394" rx="24" fill="none" stroke="#494851" stroke-width="2"/>
+<path d="M74 96h42" stroke="#e2f39f" stroke-width="3"/>
+<text x="134" y="104" fill="#e2f39f" font-family="Consolas,monospace" font-size="23" letter-spacing="3">DÉVELOPPEMENT LOGICIEL</text>
+<text x="68" y="242" fill="#faf8f4" font-family="Georgia,serif" font-size="104" font-weight="700" letter-spacing="-4">Walid Boussaha</text>
+<path d="M74 286h612" stroke="#a2a3b0" stroke-opacity=".38"/>
+<text x="74" y="328" fill="#d4d3da" font-family="Consolas,monospace" font-size="23" letter-spacing="2">PYTHON  /  HTML &amp; CSS  /  GIT</text>
+</svg>
